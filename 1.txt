@@ -1,0 +1,11 @@
+ Volume in drive E is Work
+ Volume Serial Number is 6CA5-0FF8
+
+ Directory of E:\testing
+
+05/08/2013  07:12 PM    <DIR>          .
+05/08/2013  07:12 PM    <DIR>          ..
+05/08/2013  07:12 PM                 0 1.txt
+05/08/2013  07:12 PM                29 README.md
+               2 File(s)             29 bytes
+               2 Dir(s)   8,472,694,784 bytes free
